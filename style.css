@@ -1,0 +1,38 @@
+body{
+    width: 100vw;
+    height: 200vh;
+    background-color: rgb(244, 239, 239);
+    margin: 0;
+}
+header{
+    width: 100vw;
+    height: 30px;
+    background-color:cadetblue;
+    padding: 10px;
+}
+article{
+    width: 100vw;
+    height: 180vh;
+    background-color: lightcoral;
+    padding: 30px;
+}
+main{
+    width: 50vw;
+    height: 100vh;
+    background-color: crimson;
+    margin-left: 400px;
+    margin-bottom: 70px;
+}
+figure{
+    width: 70vw;
+    height: 50vh;
+    background-color: azure;
+    margin: 30px;
+    margin-left: 250px;
+    
+}
+footer{
+    width: 100vw;
+    height: 200px;
+    background-color: black;
+}
